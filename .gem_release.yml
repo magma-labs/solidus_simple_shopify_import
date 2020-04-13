@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_simple_shopify_import/version.rb'
+  message: Bump SolidusSimpleShopifyImport to %{version}
+  tag: true
